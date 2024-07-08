@@ -1,6 +1,7 @@
 {
   "name": "react-github-actions-2",
   "private": true,
+  "homepage": "https://mhammadshami.github.io/cicd",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
